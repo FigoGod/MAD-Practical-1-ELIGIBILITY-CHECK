@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImEligible</string>
+    <string name="TextView">TextView</string>
+    <string name="Check_Eligibility">Check Eligibility</string>
+    <string name="Please_enter_your_name">Please enter your name</string>
+    <string name="Please_Enter_Your_Age">Please Enter Your Age</string>
+    <string name="Please_enter_your_gender">Please enter  your gender</string>
+</resources>
